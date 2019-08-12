@@ -2,41 +2,72 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
+import CONFIG from "./../../me-config"
+import Navbar from "./navbar"
+
+const Header = ({ initials }) => {
+  initials = CONFIG.initials || initials
+
+  return (
+    <header
       style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
+        background: `rebeccapurple`,
+        marginBottom: `1.4rem`,
       }}
     >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
+      <div
+        style={{
+          margin: `0 auto`,
+          maxWidth: 960,
+          padding: `0.8rem 0.4rem`,
+        }}
+      >
+        <div
           style={{
-            color: `white`,
-            textDecoration: `none`,
+            display: `inline-block`,
+            width: `20%`,
           }}
         >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
-  </header>
-)
+          <h1 style={{ margin: 0 }}>
+            <Link
+              to="/"
+              style={{
+                color: `white`,
+                textDecoration: `none`,
+              }}
+            >
+              {initials}
+            </Link>
+          </h1>
+        </div>
+        <div
+          style={{
+            display: `inline-block`,
+            width: `10%`,
+          }}
+        >
+        </div>
+        <div
+          style={{
+            display: `inline-block`,
+            width: `70%`,
+          }}
+        >
+          <Navbar />
+        </div>
+      </div>
+    </header>
+  )
+}
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
+  initials: PropTypes.string,
 }
 
 Header.defaultProps = {
   siteTitle: ``,
+  initials: `ME`,
 }
 
 export default Header
