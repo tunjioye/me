@@ -629,8 +629,18 @@ pre tt:after {
   justify-content: center;
 }
 
-.highlight {
-  background-color: rgb(207, 250, 207);
+.mark-green {
+  background-color: #eeffee;
+}
+.mark-green:hover, .mark-green:focus {
+  background-color: #ddffdd;
+}
+
+.mark-blue {
+  background-color: #efefff;
+}
+.mark-blue:hover, .mark-blue:focus {
+  background-color: #dfdfff;
 }
 
 a {
@@ -654,6 +664,8 @@ hr {
 
 body {
   color: #404040;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
 .text-large {
@@ -669,4 +681,8 @@ a.projects-link {
 a.projects-link:hover {
   border-bottom-color: #3d6bb3;
   text-decoration: none;
+}
+
+a.social-link {
+  margin-right: .8rem;
 }
