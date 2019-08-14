@@ -18,7 +18,7 @@ const Navbar = ({ navLinks }) => {
       >
         <Link
           title={title}
-          to={href}
+          to={`/${href}`}
           style={{
             color: `white`,
             textDecoration: `none`,
@@ -79,10 +79,6 @@ Navbar.defaultProps = {
     {
       href: `/projects`,
       title: `Projects`,
-    },
-    {
-      href: `/resume`,
-      title: `Resume`,
     },
   ],
 }

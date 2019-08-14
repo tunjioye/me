@@ -10,7 +10,7 @@ I am a <mark class="mark-green">Fullstack Developer</mark> and <mark class="mark
 After much Freelancing, I am actively searching for a job opportunity as a *Fullstack, Frontend or Backend Developer*.<br />And with my wide variety of expereience, I am confident I would be an excellent addition to your team.
 
 <details>
-  <summary><samp>&#9654; More About me!</samp></summary>
+  <summary><samp>More About me!</samp></summary>
 
   Apart from Programming, Sometimes I love to dabble in <a target="_blank" href="https://instagram.com/tunji_oyeniran">Graphics Design</a> using Adobe Illustrator, Photoshop, XD and Figma.
 
