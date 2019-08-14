@@ -17,4 +17,7 @@ module.exports = {
   },
   resume: `resume.pdf`,
   // resume: `https://drive.google.com/file/d/15XRH7TAKEuyV1r0AQurLfr_EZDHT2qFi/view`,
+  contacts: {
+    'email': 'oyenirantunji2339@gmail.com',
+  }
 }
