@@ -8,7 +8,7 @@ title: 'Projects'
 #### <a target="_blank" href="https://tunjioye.github.io/tapword">Tapword</a>
 *words are limitless* : is a game that tests your knowledge of English words
 
-<samp>React | SCSS | Github Pages | PWA</samp>
+<samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
 
 ---
 
@@ -50,7 +50,7 @@ Simple PHP Class to utilize [Smart SMS Solutions](https://smartsmssolutions.com/
 #### <a target="_blank" href="https://github.com/tunjioye/spectre-css-examples">Spectre CSS Examples</a>
 Spectre CSS Examples provides some quick html examples based on the Spectre CSS Framework
 
-<samp>CSS | SCSS | Git</samp>
+<samp>CSS | SCSS | CSS Flex | Git</samp>
 
 ---
 
