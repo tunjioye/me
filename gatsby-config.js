@@ -33,6 +33,13 @@ module.exports = {
 
     // Installed Gatsby Plugins
     `gatsby-plugin-styled-components`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pages`,
+        path: `${__dirname}/me-md/`,
+      },
+    },
     `gatsby-transformer-remark`,
   ],
 }
