@@ -15,7 +15,7 @@ module.exports = {
     description: `Tunji Oyeniran is a Fullstack Developer who loves building useful mobile friendly applications using Laravel, PHP, React, Vue and Node JS.`,
     author: `@tunjioye`,
   },
-  resume: `resume.pdf`,
+  resume: `tunji oyeniran resume.pdf`,
   // resume: `https://drive.google.com/file/d/15XRH7TAKEuyV1r0AQurLfr_EZDHT2qFi/view`,
   contacts: {
     'email': 'oyenirantunji2339@gmail.com',
@@ -26,4 +26,5 @@ module.exports = {
     'stackoverflow': 'https://stackoverflow.com/users/5760434/tunji-oyeniran',
     'medium': 'https://medium.com/@tunjioye',
   },
+  repo: `https://github.com/tunjioye/me.git`,
 }
