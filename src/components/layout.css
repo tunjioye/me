@@ -620,3 +620,15 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.main-content {
+  display: flex;
+  min-height: 55vh;
+  height: 70vh;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.highlight {
+  background-color: rgb(207, 250, 207);
+}
