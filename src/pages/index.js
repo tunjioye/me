@@ -22,8 +22,8 @@ const IndexPage = () => {
       <div
         dangerouslySetInnerHTML={{ __html: html }}
       />
-      <p>
-        Check out some of my <Link to="/projects">projects</Link>
+      <p className="text-large">
+        Check out some of my <Link to="/projects" className="projects-link">projects</Link>
       </p>
     </Layout>
   )

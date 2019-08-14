@@ -660,3 +660,13 @@ body {
   font-size: 1.3rem;
   line-height: 1.1;
 }
+
+a.projects-link {
+  padding-bottom: 8px;
+  border-bottom: 4px solid #dfdfdf;
+}
+a.projects-link:hover {
+  border-bottom-color: #3d6bb3;
+}
+
+/* https://drive.google.com/file/d/15XRH7TAKEuyV1r0AQurLfr_EZDHT2qFi/view?usp=sharing */
