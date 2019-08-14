@@ -40,6 +40,27 @@ const Navbar = ({ navLinks }) => {
         }}
       >
         {navLinksList}
+        {CONFIG.resume &&
+          <li
+            style={{
+              display: `inline-block`,
+              margin: `.4rem .8rem`,
+            }}
+          >
+            <a
+              href={CONFIG.resume}
+              title={`Resume`}
+              style={{
+                color: `white`,
+                textDecoration: `none`,
+              }}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {`Resume`}
+            </a>
+          </li>
+        }
       </ul>
     </nav>
   )
