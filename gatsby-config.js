@@ -1,6 +1,9 @@
-const { siteMetadata } = require('./me-config')
+const { siteMetadata, pathPrefix } = require('./me-config')
+
+console.log(pathPrefix)
 
 module.exports = {
+  pathPrefix: `${pathPrefix || '/'}`,
   siteMetadata: {
     ...siteMetadata
   },
