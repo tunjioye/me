@@ -1,13 +1,13 @@
 import React from "react"
-import { useStaticQuery, graphql, Link } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const IndexPage = () => {
+const SecondPage = () => {
   const data = useStaticQuery(graphql`
-    query HomePageQuery {
-      markdownRemark(frontmatter: {path: {eq: "/"}}) {
+    query ProjectsPageQuery {
+      markdownRemark(frontmatter: {path: {eq: "/projects"}}) {
         html
       }
     }
@@ -18,15 +18,12 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <SEO title="Page two" />
       <div
         dangerouslySetInnerHTML={{ __html: html }}
       />
-      <p>
-        Check out some of my <Link to="/projects">projects</Link>
-      </p>
     </Layout>
   )
 }
 
-export default IndexPage
+export default SecondPage

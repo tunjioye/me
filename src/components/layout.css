@@ -623,8 +623,7 @@ pre tt:after {
 
 .main-content {
   display: flex;
-  min-height: 55vh;
-  height: 70vh;
+  min-height: 70vh;
   flex-direction: column;
   justify-content: center;
 }
