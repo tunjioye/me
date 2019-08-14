@@ -624,7 +624,7 @@ pre tt:after {
 /* Additional Styles */
 .main-content {
   display: flex;
-  min-height: 70vh;
+  min-height: 55vh;
   flex-direction: column;
   justify-content: center;
 }
@@ -653,4 +653,10 @@ hr {
 
 body {
   color: #404040;
+}
+
+.text-large {
+  text-rendering: optimizeLegibility;
+  font-size: 1.3rem;
+  line-height: 1.1;
 }

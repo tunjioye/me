@@ -34,11 +34,16 @@ const Layout = ({ children }) => {
           paddingTop: 0,
         }}
       >
+        <br />
+
         <main className="main-content">{children}</main>
+
+        <br />
+        <br />
+
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <strong>&copy;</strong> {new Date().getFullYear()},
+          Built with <a href="https://www.gatsbyjs.org" target="_blank">Gatsby</a>
         </footer>
       </div>
     </>

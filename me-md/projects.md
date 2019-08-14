@@ -3,8 +3,6 @@ path: '/projects'
 title: 'Projects'
 ---
 
-<br />
-
 #### [Tapword](https://tunjioye.github.io/tapword)
 *words are limitless* : is a game that tests your knowledge of English words
 
@@ -79,6 +77,3 @@ an affiliate online book store mainly for study materials
 build a simple portfolio just like mine : fork then change the preset configurations and markdown pages
 
 <samp>React | Gatsby | GraphQL | Markdown | Github Pages</samp>
-
-<br />
-<br />
