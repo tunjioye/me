@@ -73,7 +73,7 @@ an affiliate online book store mainly for study materials
 
 ---
 
-#### <a target="_blank" href="https://tunjioye.github.io/me">Me</a>
+#### <a target="_blank" href="https://github.com/tunjioye/me">Me</a>
 build a simple portfolio just like mine : fork then change the preset configurations and markdown pages
 
 <samp>React | Gatsby | GraphQL | Markdown | Github Pages</samp>
