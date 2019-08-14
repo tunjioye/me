@@ -621,6 +621,7 @@ pre tt:after {
   }
 }
 
+/* Additional Styles */
 .main-content {
   display: flex;
   min-height: 70vh;
@@ -630,4 +631,26 @@ pre tt:after {
 
 .highlight {
   background-color: rgb(207, 250, 207);
+}
+
+a {
+  color: #0c46a0;
+  text-decoration: none;
+}
+a:hover, a:focus {
+  color: #3d6bb3;
+}
+a:focus {
+  outline: 1px dotted #3d6bb3;
+}
+a:visited {
+  color: none;
+}
+
+hr {
+  background-color: #dfdfdf;
+}
+
+body {
+  color: #404040;
 }

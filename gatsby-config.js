@@ -31,8 +31,7 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
 
-    // Installed Gatsby Plugins
-    `gatsby-plugin-styled-components`,
+    // Additional Config
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -40,6 +39,9 @@ module.exports = {
         path: `${__dirname}/me-md/`,
       },
     },
+
+    // Installed Gatsby Plugins
+    `gatsby-plugin-styled-components`,
     `gatsby-transformer-remark`,
   ],
 }

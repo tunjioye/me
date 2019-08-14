@@ -11,7 +11,7 @@ const Header = ({ initials }) => {
   return (
     <header
       style={{
-        background: `rebeccapurple`,
+        background: `#404040`,
         marginBottom: `1.4rem`,
       }}
     >
