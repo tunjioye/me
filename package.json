@@ -34,7 +34,7 @@
     "build": "gatsby build --prefix-paths",
     "develop": "gatsby develop",
     "predeploy:github": "npm run build",
-    "deploy:github": "gh-pages -b master -d public",
+    "deploy:github": "gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
