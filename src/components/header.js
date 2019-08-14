@@ -5,7 +5,7 @@ import React from "react"
 import CONFIG from "./../../me-config"
 import Navbar from "./navbar"
 
-const Header = ({ initials }) => {
+const Header = ({ initials, siteTitle }) => {
   initials = CONFIG.initials || initials
 
   return (
@@ -31,6 +31,7 @@ const Header = ({ initials }) => {
           <h1 style={{ margin: 0 }}>
             <Link
               to="/"
+              title={`${siteTitle}`}
               style={{
                 color: `white`,
                 textDecoration: `none`,
