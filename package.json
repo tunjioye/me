@@ -16,6 +16,7 @@
     "gatsby-source-filesystem": "^2.1.9",
     "gatsby-transformer-remark": "^2.6.13",
     "gatsby-transformer-sharp": "^2.2.6",
+    "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -32,7 +33,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy:github": "node ./scripts/deploy-github",
+    "deploy:github": "npm run build && node ./scripts/deploy-github",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
