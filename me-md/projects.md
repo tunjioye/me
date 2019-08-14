@@ -3,6 +3,8 @@ path: '/projects'
 title: 'Projects'
 ---
 
+# Projects
+
 #### <a target="_blank" href="https://tunjioye.github.io/tapword">Tapword</a>
 *words are limitless* : is a game that tests your knowledge of English words
 
@@ -76,4 +78,4 @@ an affiliate online book store mainly for study materials
 #### <a target="_blank" href="https://github.com/tunjioye/me">Me</a>
 build a simple portfolio just like mine : fork then change the preset configurations and markdown pages
 
-<samp>React | Gatsby | GraphQL | Markdown | Github Pages</samp>
+<samp>React | Gatsby | GraphQL | Markdown | Github Pages | PWA</samp>

@@ -5,8 +5,16 @@ title: 'Home'
 
 # Hi! I'm Tunji Oyeniran
 
-I am a <mark class="highlight">Fullstack Developer</mark> who loves building useful mobile friendly applications using Laravel, PHP, React, Vue and Node JS.
+I am a <mark class="highlight">Fullstack Developer</mark> and <mark class="highlight">Tech Advocate</mark> who loves building mobile friendly applications using { JavaScript, PHP, Laravel, React, Vue and Node JS, ...Others } and sharing my experience as a programmer.
 
-Sometimes I love to dabble in Graphics Design using Adobe Illustrator, Photoshop, XD and Figma.
+After much Freelancing, I am searching for a good job opportunity as a *Fullstack, Frontend or Backend Developer*.<br />And with my wide variety of expereience, I am confident I would be an excellent addition to your team.
 
-Either way, I am always interested in problem solving, web development, tutoring, playing strategy games and getting amazed by artificial intelligence.
+<details>
+  <summary><samp>&#9654; More About me!</samp></summary>
+
+  Apart from Programming, Sometimes I love to dabble in <a target="_blank" href="https://instagram.com/tunji_oyeniran">Graphics Design</a> using Adobe Illustrator, Photoshop, XD and Figma.
+
+  Either way, I am always interested in problem solving, web development, tutoring, playing strategy games and getting amazed by artificial intelligence.
+</details>
+
+<br />
