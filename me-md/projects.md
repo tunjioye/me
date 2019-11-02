@@ -11,6 +11,12 @@ title: 'Projects'
 <samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
 
 ---
+#### <a target="_blank" href="https://heroshe.com">Heroshe Website</a>
+Buy products from any trusted US online store using your Heroshe US Shipping Address and Heroshe will ship and deliver your package to you.
+
+<samp>Craft CMS | Twig | SCSS | Git | Docker | CI-CD</samp>
+
+---
 
 #### <a target="_blank" href="https://pepvote.com">Pepvote</a>
 an electronic voting platform for managing elections, polls and other election processes
