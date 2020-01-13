@@ -6,19 +6,31 @@ title: 'Projects'
 # Projects
 
 #### <a target="_blank" href="https://tunjioye.github.io/tapword">Tapword</a>
+
 *words are limitless* : is a game that tests your knowledge of English words
 
 <samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
 
 ---
+
 #### <a target="_blank" href="https://heroshe.com">Heroshe Website</a>
+
 Buy products from any trusted US online store using your Heroshe US Shipping Address and Heroshe will ship and deliver your package to you.
 
-<samp>Craft CMS | Twig | SCSS | Git | Docker | CI-CD</samp>
+<samp>Craft CMS | Twig | SCSS | Git | Docker | CI-CD | Zeplin</samp>
+
+---
+
+#### <a target="_blank" href="https://www.figma.com/proto/kHXvT63ao4pzcCVX40fToq/Trade-Finance-Dashboard">Trade Finance UI/UX Design</a>
+
+UI/UX Design and Prototyping of a Trade Solution in progress ...
+
+<samp>FIGMA | Adobe Illustrator</samp>
 
 ---
 
 #### <a target="_blank" href="https://pepvote.com">Pepvote</a>
+
 an electronic voting platform for managing elections, polls and other election processes
 
 <samp>PHP | Laravel | Vue | GitBook | Bitbucket</samp>
@@ -26,6 +38,7 @@ an electronic voting platform for managing elections, polls and other election p
 ---
 
 #### <a target="_blank" href="https://alethicresources.com">Alethic Resources</a>
+
 official website of Alethic Resources Nigeria Limited
 
 <samp>React | Bitbucket | Netlify</samp>
@@ -33,13 +46,15 @@ official website of Alethic Resources Nigeria Limited
 ---
 
 #### <a target="_blank" href="https://github.com/tunjioye/templatestringparser">Template String Parser</a>
+
 a package for interpolating strings. replace parts of a template string with passed object key : value
 
 <samp>JS | NPM</samp>
 
 ---
 
-#### <a target="_blank" href="https://techcampaigner.netlify.com">Tech Campaigner</a>
+#### <a target="_blank" href="https://techcampaigners.netlify.com">Tech Campaigners</a>
+
 submit your products as an enterpreneur and allow campaigners to campaign and refer potential customers
 
 <samp>React | Redux | Blueprint JS | MongoDB Atlas | Strapi JS | Heroku | Netlify | GitLab</samp>
@@ -47,6 +62,7 @@ submit your products as an enterpreneur and allow campaigners to campaign and re
 ---
 
 #### <a target="_blank" href="https://github.com/tunjioye/smartxmx">Smart XMX</a>
+
 Simple PHP Class to utilize [Smart SMS Solutions](https://smartsmssolutions.com/) Bulk SMS HTTP API
 
 <samp>PHP | Composer | Packagist</samp>
@@ -54,6 +70,7 @@ Simple PHP Class to utilize [Smart SMS Solutions](https://smartsmssolutions.com/
 ---
 
 #### <a target="_blank" href="https://github.com/tunjioye/spectre-css-examples">Spectre CSS Examples</a>
+
 Spectre CSS Examples provides some quick html examples based on the Spectre CSS Framework
 
 <samp>CSS | SCSS | CSS Flex | Git</samp>
@@ -61,6 +78,7 @@ Spectre CSS Examples provides some quick html examples based on the Spectre CSS 
 ---
 
 #### <a target="_blank" href="https://forms.tkpmission.org">TKP Forms</a>
+
 custom built form entry for TKP (The Kingdom Project) events and mission outreaches
 
 <samp>Laravel | Bootstrap 3 | Google Docs</samp>
@@ -68,6 +86,7 @@ custom built form entry for TKP (The Kingdom Project) events and mission outreac
 ---
 
 #### <a target="_blank" href="https://brainonmission.com/new">Brain on Mission</a>
+
 built the brain on mission online goal card generator
 
 <samp>Laravel | jQuery | AJAX</samp>
@@ -75,6 +94,7 @@ built the brain on mission online goal card generator
 ---
 
 #### <a target="_blank" href="https://studogram.com">Studogram</a>
+
 an affiliate online book store mainly for study materials
 
 <samp>WordPress | WooCommerce</samp>
@@ -82,6 +102,7 @@ an affiliate online book store mainly for study materials
 ---
 
 #### <a target="_blank" href="https://github.com/tunjioye/me">Me</a>
+
 build a simple portfolio just like mine : fork then change the preset configurations and markdown pages
 
 <samp>React | Gatsby | GraphQL | Markdown | Github Pages | PWA</samp>
