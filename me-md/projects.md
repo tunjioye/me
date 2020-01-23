@@ -17,7 +17,7 @@ title: 'Projects'
 
 Buy products from any trusted US online store using your Heroshe US Shipping Address and Heroshe will ship and deliver your package to you.
 
-<samp>Craft CMS | Twig | SCSS | Git | Docker | CI-CD | Zeplin</samp>
+<samp>Craft CMS | Twig | SCSS | Git | Docker | CI/CD | Zeplin</samp>
 
 ---
 
@@ -57,7 +57,15 @@ a package for interpolating strings. replace parts of a template string with pas
 
 submit your products as an enterpreneur and allow campaigners to campaign and refer potential customers
 
-<samp>React | Redux | Blueprint JS | MongoDB Atlas | Strapi JS | Heroku | Netlify | GitLab</samp>
+<samp>React | Redux | Blueprint JS | MongoDB Atlas | Strapi JS | Heroku | Netlify | GitLab | CI/CD</samp>
+
+---
+
+#### <a target="_blank" href="http://result-request-system.herokuapp.com">Result Request System</a>
+
+The Development of a System to Request Student Results from Universities. A Final Year Project Demo.
+
+<samp>PHP | Laravel | Vue | AJAX | Heroku | PostgreSQL | Git | Github | CI/CD</samp>
 
 ---
 
