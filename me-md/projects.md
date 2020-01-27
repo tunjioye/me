@@ -9,7 +9,7 @@ title: 'Projects'
 
 *words are limitless* : is a game that tests your knowledge of English words
 
-<samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
+> React | SCSS | CSS Grid | Github Pages | PWA
 
 ---
 
@@ -17,7 +17,7 @@ title: 'Projects'
 
 Buy products from any trusted US online store using your Heroshe US Shipping Address and Heroshe will ship and deliver your package to you.
 
-<samp>Craft CMS | Twig | SCSS | Git | Docker | CI/CD | Zeplin</samp>
+> Craft CMS | Twig | SCSS | Git | Docker | CI/CD | Zeplin
 
 ---
 
@@ -25,7 +25,7 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 
 UI/UX Design and Prototyping of a Trade Solution in progress ...
 
-<samp>FIGMA | Adobe Illustrator</samp>
+> FIGMA | Adobe Illustrator
 
 ---
 
@@ -33,7 +33,7 @@ UI/UX Design and Prototyping of a Trade Solution in progress ...
 
 an electronic voting platform for managing elections, polls and other election processes
 
-<samp>PHP | Laravel | Vue | GitBook | Bitbucket</samp>
+> PHP | Laravel | Vue | GitBook | Bitbucket
 
 ---
 
@@ -41,7 +41,7 @@ an electronic voting platform for managing elections, polls and other election p
 
 official website of Alethic Resources Nigeria Limited
 
-<samp>React | Bitbucket | Netlify</samp>
+> React | Bitbucket | Netlify
 
 ---
 
@@ -49,7 +49,7 @@ official website of Alethic Resources Nigeria Limited
 
 a package for interpolating strings. replace parts of a template string with passed object key : value
 
-<samp>JS | NPM</samp>
+> JS | NPM
 
 ---
 
@@ -57,7 +57,15 @@ a package for interpolating strings. replace parts of a template string with pas
 
 submit your products as an enterpreneur and allow campaigners to campaign and refer potential customers
 
-<samp>React | Redux | Blueprint JS | MongoDB Atlas | Strapi JS | Heroku | Netlify | GitLab | CI/CD</samp>
+> React | Redux | Blueprint JS | MongoDB Atlas | Strapi JS | Heroku | Netlify | GitLab | CI/CD
+
+---
+
+#### <a target="_blank" href="http://spf-demo.herokuapp.com">Sprocket API Demo [Frontend]</a>
+
+Frotend Demo of a store products api with features such as filtering, sorting and pagination.
+
+> React | Next JS | RSuite JS | SCSS | AJAX | Heroku | Git
 
 ---
 
@@ -65,7 +73,7 @@ submit your products as an enterpreneur and allow campaigners to campaign and re
 
 The Development of a System to Request Student Results from Universities. A Final Year Project Demo.
 
-<samp>PHP | Laravel | Vue | AJAX | Heroku | PostgreSQL | Git | Github | CI/CD</samp>
+> PHP | Laravel | Vue | AJAX | Heroku | PostgreSQL | Git | Github | CI/CD
 
 ---
 
@@ -73,7 +81,7 @@ The Development of a System to Request Student Results from Universities. A Fina
 
 Simple PHP Class to utilize [Smart SMS Solutions](https://smartsmssolutions.com/) Bulk SMS HTTP API
 
-<samp>PHP | Composer | Packagist</samp>
+> PHP | Composer | Packagist
 
 ---
 
@@ -81,7 +89,7 @@ Simple PHP Class to utilize [Smart SMS Solutions](https://smartsmssolutions.com/
 
 Spectre CSS Examples provides some quick html examples based on the Spectre CSS Framework
 
-<samp>CSS | SCSS | CSS Flex | Git</samp>
+> CSS | SCSS | CSS Flex | Git
 
 ---
 
@@ -89,7 +97,7 @@ Spectre CSS Examples provides some quick html examples based on the Spectre CSS 
 
 custom built form entry for TKP (The Kingdom Project) events and mission outreaches
 
-<samp>Laravel | Bootstrap 3 | Google Docs</samp>
+> Laravel | Bootstrap 3 | Google Docs
 
 ---
 
@@ -97,7 +105,7 @@ custom built form entry for TKP (The Kingdom Project) events and mission outreac
 
 built the brain on mission online goal card generator
 
-<samp>Laravel | jQuery | AJAX</samp>
+> Laravel | jQuery | AJAX
 
 ---
 
@@ -105,7 +113,7 @@ built the brain on mission online goal card generator
 
 an affiliate online book store mainly for study materials
 
-<samp>WordPress | WooCommerce</samp>
+> WordPress | WooCommerce
 
 ---
 
@@ -113,4 +121,4 @@ an affiliate online book store mainly for study materials
 
 build a simple portfolio just like mine : fork then change the preset configurations and markdown pages
 
-<samp>React | Gatsby | GraphQL | Markdown | Github Pages | PWA</samp>
+> React | Gatsby | GraphQL | Markdown | Github Pages | PWA
