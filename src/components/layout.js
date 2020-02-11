@@ -10,6 +10,7 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+import SocialLink from "./social-link"
 import "./layout.css"
 import { contacts } from "./../../me-config"
 
@@ -44,18 +45,20 @@ const Layout = ({ children }) => {
 
         <footer>
           <div>
-            <a className="social-link" href={`mailto:${contacts.email || ''}`} target="_blank" rel="noopener noreferrer">Email</a>
-            <a className="social-link" href={`${contacts.github || ''}`} target="_blank" rel="noopener noreferrer">Github</a>
-            <a className="social-link" href={`${contacts.twitter || ''}`} target="_blank" rel="noopener noreferrer">Twitter</a>
-            <a className="social-link" href={`${contacts.linkedin || ''}`} target="_blank" rel="noopener noreferrer">LinkedIn</a>
-            <a className="social-link" href={`${contacts.instagram || ''}`} target="_blank" rel="noopener noreferrer">Instagram</a>
-            <a className="social-link" href={`${contacts.stackoverflow || ''}`} target="_blank" rel="noopener noreferrer">Stackoverflow</a>
-            <a className="social-link" href={`${contacts.medium || ''}`} target="_blank" rel="noopener noreferrer">Medium</a>
+            <SocialLink href={`mailto:${contacts.email || ''}`}>Email</SocialLink>
+            <SocialLink href={`${contacts.github || ''}`}>Github</SocialLink>
+            <SocialLink href={`${contacts.twitter || ''}`}>Twitter</SocialLink>
+            <SocialLink href={`${contacts.linkedin || ''}`}>LinkedIn</SocialLink>
+            <SocialLink href={`${contacts.instagram || ''}`}>Instagram</SocialLink>
+            <SocialLink href={`${contacts.stackoverflow || ''}`}>Stackoverflow</SocialLink>
+            <SocialLink href={`${contacts.medium || ''}`}>Medium</SocialLink>
           </div>
           <br />
           <div>
-            <strong>&copy;</strong> {new Date().getFullYear()},
-            Built with <a href="https://www.gatsbyjs.org" target="_blank" rel="noopener noreferrer">Gatsby</a>
+            <small>
+              <strong>&copy;</strong> {new Date().getFullYear()},
+              Built with <a href="https://www.gatsbyjs.org" target="_blank" rel="noopener noreferrer">Gatsby</a>
+            </small>
           </div>
         </footer>
       </div>

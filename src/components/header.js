@@ -5,7 +5,9 @@ import React from "react"
 import CONFIG from "./../../me-config"
 import Navbar from "./navbar"
 
-const Header = ({ initials, siteTitle }) => {
+const Header = (props) => {
+  const { siteTitle } = props
+  let { initials } = props
   initials = CONFIG.initials || initials
 
   return (
