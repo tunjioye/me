@@ -45,6 +45,19 @@ module.exports = {
 
     // Installed Gatsby Plugins
     `gatsby-plugin-styled-components`,
-    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "noopener noreferrer"
+            }
+          }
+        ]
+      }
+    }
   ],
 }
