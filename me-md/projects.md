@@ -3,122 +3,124 @@ path: '/projects'
 title: 'Projects'
 ---
 
-# Projects
+## Projects
 
-#### <a target="_blank" href="https://tunjioye.github.io/tapword">Tapword</a>
+### Checkout some of my works
+
+#### [Tapword](https://tunjioye.github.io/tapword)
 
 *words are limitless* : is a game that tests your knowledge of English words
 
-> React | SCSS | CSS Grid | Github Pages | PWA
+<samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
 
 ---
 
-#### <a target="_blank" href="https://heroshe.com">Heroshe Website</a>
+#### [Heroshe Website](https://heroshe.com)
 
 Buy products from any trusted US online store using your Heroshe US Shipping Address and Heroshe will ship and deliver your package to you.
 
-> Craft CMS | Twig | SCSS | Git | Docker | CI/CD | Zeplin
+<samp>Craft CMS | Twig | SCSS | Git | Docker | CI/CD | Zeplin</samp>
 
 ---
 
-#### <a target="_blank" href="https://www.figma.com/proto/kHXvT63ao4pzcCVX40fToq/Trade-Finance-Dashboard">Trade Finance UI/UX Design</a>
+#### [Trade Finance UI/UX Design](https://www.figma.com/proto/kHXvT63ao4pzcCVX40fToq/Trade-Finance-Dashboard)
 
 UI/UX Design and Prototyping of a Trade Solution in progress ...
 
-> FIGMA | Adobe Illustrator
+<samp>FIGMA | Adobe Illustrator</samp>
 
 ---
 
-#### <a target="_blank" href="https://pepvote.com">Pepvote</a>
+#### [Pepvote](https://pepvote.com)
 
 an electronic voting platform for managing elections, polls and other election processes
 
-> PHP | Laravel | Vue | GitBook | Bitbucket
+<samp>PHP | Laravel | Vue | GitBook | Bitbucket</samp>
 
 ---
 
-#### <a target="_blank" href="https://alethicresources.com">Alethic Resources</a>
+#### [Alethic Resources](https://alethicresources.com)
 
 official website of Alethic Resources Nigeria Limited
 
-> React | Bitbucket | Netlify
+<samp>React | Bitbucket | Netlify</samp>
 
 ---
 
-#### <a target="_blank" href="https://github.com/tunjioye/templatestringparser">Template String Parser</a>
+#### [Template String Parser](https://github.com/tunjioye/templatestringparser)
 
 a package for interpolating strings. replace parts of a template string with passed object key : value
 
-> JS | NPM
+<samp>JS | NPM</samp>
 
 ---
 
-#### <a target="_blank" href="https://techcampaigners.netlify.com">Tech Campaigners</a>
+#### [Tech Campaigners](https://techcampaigners.netlify.com)
 
 submit your products as an enterpreneur and allow campaigners to campaign and refer potential customers
 
-> React | Redux | Blueprint JS | MongoDB Atlas | Strapi JS | Heroku | Netlify | GitLab | CI/CD
+<samp>React | Redux | Blueprint JS | MongoDB Atlas | Strapi JS | Heroku | Netlify | GitLab | CI/CD</samp>
 
 ---
 
-#### <a target="_blank" href="http://spf-demo.herokuapp.com">Sprocket API Demo [Frontend]</a>
+#### [Sprocket API Frontend Demo](https://spf-demo.herokuapp.com)
 
-Frotend Demo of a store products api with features such as filtering, sorting and pagination.
+Frontend Demo consuming API of a store of products with features such as filtering, sorting and pagination.
 
-> React | Next JS | RSuite JS | SCSS | AJAX | Heroku | Git
+<samp>React | Next JS | RSuite JS | SCSS | AJAX | Heroku | Git</samp>
 
 ---
 
-#### <a target="_blank" href="http://result-request-system.herokuapp.com">Result Request System</a>
+#### [Result Request System](https://result-request-system.herokuapp.com)
 
 The Development of a System to Request Student Results from Universities. A Final Year Project Demo.
 
-> PHP | Laravel | Vue | AJAX | Heroku | PostgreSQL | Git | Github | CI/CD
+<samp>PHP | Laravel | Vue | AJAX | Heroku | PostgreSQL | Git | Github | CI/CD</samp>
 
 ---
 
-#### <a target="_blank" href="https://github.com/tunjioye/smartxmx">Smart XMX</a>
+#### [Smart XMX](https://github.com/tunjioye/smartxmx)
 
 Simple PHP Class to utilize [Smart SMS Solutions](https://smartsmssolutions.com/) Bulk SMS HTTP API
 
-> PHP | Composer | Packagist
+<samp>PHP | Composer | Packagist</samp>
 
 ---
 
-#### <a target="_blank" href="https://github.com/tunjioye/spectre-css-examples">Spectre CSS Examples</a>
+#### [Spectre CSS Examples](https://github.com/tunjioye/spectre-css-examples")
 
 Spectre CSS Examples provides some quick html examples based on the Spectre CSS Framework
 
-> CSS | SCSS | CSS Flex | Git
+<samp>CSS | SCSS | CSS Flex | Git</samp>
 
 ---
 
-#### <a target="_blank" href="https://forms.tkpmission.org">TKP Forms</a>
+#### [TKP Forms](https://forms.tkpmission.org)
 
 custom built form entry for TKP (The Kingdom Project) events and mission outreaches
 
-> Laravel | Bootstrap 3 | Google Docs
+<samp>Laravel | Bootstrap 3 | Google Docs</samp>
 
 ---
 
-#### <a target="_blank" href="https://brainonmission.com/new">Brain on Mission</a>
+#### [Brain on Mission](http://brainonmission.com/new)
 
 built the brain on mission online goal card generator
 
-> Laravel | jQuery | AJAX
+<samp>Laravel | jQuery | AJAX</samp>
 
 ---
 
-#### <a target="_blank" href="https://studogram.com">Studogram</a>
+#### [Studogram](https://studogram.com)
 
 an affiliate online book store mainly for study materials
 
-> WordPress | WooCommerce
+<samp>WordPress | WooCommerce</samp>
 
 ---
 
-#### <a target="_blank" href="https://github.com/tunjioye/me">Me</a>
+#### [Me](https://github.com/tunjioye/me)
 
 build a simple portfolio just like mine : fork then change the preset configurations and markdown pages
 
-> React | Gatsby | GraphQL | Markdown | Github Pages | PWA
+<samp>React | Gatsby | GraphQL | Markdown | Github Pages | PWA</samp>
