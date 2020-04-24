@@ -7,6 +7,14 @@ title: 'Projects'
 
 ### Checkout some of my works
 
+#### [Homehealth](https://homehealth.now.sh)
+
+a portal that provides information about COVID-19 coronavirus. [Resources](https://homehealth.now.sh/covid), [Risk Assessment Form](https://homehealth.now.sh/forms/risk-assessment) and [Nigeria States COVID-19 Statistics](https://homehealth.now.sh/covid/statistics).
+
+<samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
+
+---
+
 #### [Tapword](https://tunjioye.github.io/tapword)
 
 *words are limitless* : is a game that tests your knowledge of English words
