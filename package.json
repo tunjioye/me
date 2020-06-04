@@ -6,7 +6,7 @@
   "author": "Tunji Oyeniran <oyenirantunji2339@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.19.3",
+    "gatsby": "^2.23.0",
     "gatsby-image": "^2.2.8",
     "gatsby-plugin-manifest": "^2.2.5",
     "gatsby-plugin-offline": "^2.2.5",
