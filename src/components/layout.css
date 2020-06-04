@@ -631,6 +631,7 @@ pre tt:after {
 
 .mark-green {
   background-color: #eeffee;
+  white-space: nowrap;
 }
 .mark-green:hover, .mark-green:focus {
   background-color: #ddffdd;
@@ -638,6 +639,7 @@ pre tt:after {
 
 .mark-blue {
   background-color: #efefff;
+  white-space: nowrap;
 }
 .mark-blue:hover, .mark-blue:focus {
   background-color: #dfdfff;
@@ -671,7 +673,7 @@ body {
 .text-large {
   text-rendering: optimizeLegibility;
   font-size: 1.3rem;
-  line-height: 1.1;
+  line-height: 1.5;
 }
 
 a.projects-link {
@@ -685,4 +687,5 @@ a.projects-link:hover {
 
 a.social-link {
   margin-right: .8rem;
+  white-space: nowrap;
 }

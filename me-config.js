@@ -6,7 +6,7 @@ module.exports = {
       title: `Home`,
     },
     {
-      href: `projects`,
+      href: `/projects`,
       title: `Projects`,
     }
   ],

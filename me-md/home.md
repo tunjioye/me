@@ -7,7 +7,7 @@ title: 'Home'
 
 I am a <mark class="mark-green">Fullstack Developer</mark> and <mark class="mark-blue">Tech Advocate</mark> who loves building mobile friendly applications using **{** JavaScript, PHP, Laravel, React, Vue and Node JS **}** and sharing my experience as a programmer to inspire new minds.
 
-After much Freelancing, I am actively searching for a job opportunity as a *Fullstack, Frontend or Backend Developer*.<br />And with my wide variety of expereience, I am confident I would be an excellent addition to your team.
+After much Freelancing, I am actively searching for a job opportunity as a *Fullstack, Frontend or Backend Developer*. And with my wide variety of expereience, I am confident I would be an excellent addition to your team.
 
 <details>
   <summary><samp>&#9654; More About me!</samp></summary>

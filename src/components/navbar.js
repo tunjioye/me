@@ -18,10 +18,15 @@ const Navbar = ({ navLinks }) => {
       >
         <Link
           title={title}
-          to={`/${href}`}
+          to={href}
           style={{
             color: `white`,
             textDecoration: `none`,
+            textUnderlinePosition: `under`,
+          }}
+          activeStyle={{
+            textDecoration: `underline`,
+            textUnderlinePosition: `under`,
           }}
         >
           {title}
