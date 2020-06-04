@@ -5,7 +5,7 @@ title: 'Projects'
 
 ## Projects
 
-### Checkout some of my works
+### Check out some of my works
 
 #### [Homehealth](https://homehealth.now.sh)
 
