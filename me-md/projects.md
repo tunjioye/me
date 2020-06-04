@@ -9,7 +9,7 @@ title: 'Projects'
 
 #### [Homehealth](https://homehealth.now.sh)
 
-a portal that provides information about COVID-19 coronavirus. [Resources](https://homehealth.now.sh/covid), [Risk Assessment Form](https://homehealth.now.sh/forms/risk-assessment) and [Nigeria States COVID-19 Statistics](https://homehealth.now.sh/covid/statistics).
+a portal that provides information about COVID-19 coronavirus. Resources, Statistics, [Risk Assessment Form](https://homehealth.now.sh/forms/risk-assessment) and [Risk Assessment Dashboard](https://homehealth.now.sh/dashboard).
 
 <samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
 
@@ -27,7 +27,11 @@ a portal that provides information about COVID-19 coronavirus. [Resources](https
 
 Buy products from any trusted US online store using your Heroshe US Shipping Address and Heroshe will ship and deliver your package to you.
 
-<samp>Craft CMS | Twig | SCSS | Git | Docker | CI/CD | Zeplin</samp>
+<samp>Craft CMS | Twig | SCSS | Git | Docker | Gitlab | CI/CD | Zeplin</samp>
+
+#### [Heroshe Web Application](https://myheroshe.com)
+
+<samp>Nuxt JS | SCSS | Git | Jest | Gitlab | CI/CD | Zeplin</samp>
 
 ---
 
