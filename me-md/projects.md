@@ -7,6 +7,14 @@ title: 'Projects'
 
 ### Check out some of my works
 
+#### [C & I Leasing Chatbot Forms](https://c-ileasing-forms.now.sh)
+
+webview forms developed for C & I Leasing Oracle ODA Chatbot. The forms are integrated with the client's car reservation API (test environment). [Car Reservation Form](https://c-ileasing-forms.now.sh/reservation), [Hertz Feedback Form](https://c-ileasing-forms.now.sh/hertz-feedback) and [Hertz Feedback Dashboard](https://c-ileasing-forms.now.sh/dashboard). The forms are also designed to look like Google Forms.
+
+<samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
+
+---
+
 #### [Homehealth](https://homehealth.now.sh)
 
 a portal that provides information about COVID-19 coronavirus. Resources, Statistics, [Risk Assessment Form](https://homehealth.now.sh/forms/risk-assessment) and [Risk Assessment Dashboard](https://homehealth.now.sh/dashboard).
