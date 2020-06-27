@@ -31,13 +31,15 @@ a portal that provides information about COVID-19 coronavirus. Resources, Statis
 
 ---
 
-#### [Heroshe Website](https://heroshe.com)
+#### Heroshe
+
+##### [Heroshe Website](https://heroshe.com)
 
 Buy products from any trusted US online store using your Heroshe US Shipping Address and Heroshe will ship and deliver your package to you.
 
 <samp>Craft CMS | Twig | SCSS | Git | Docker | Gitlab | CI/CD | Zeplin</samp>
 
-#### [Heroshe Web Application](https://myheroshe.com)
+##### [Heroshe Web Application](https://myheroshe.com)
 
 <samp>Nuxt JS | SCSS | Git | Jest | Gitlab | CI/CD | Zeplin</samp>
 
@@ -59,7 +61,7 @@ an electronic voting platform for managing elections, polls and other election p
 
 ---
 
-#### [Alethic Resources](https://alethicresources.com)
+#### [Alethic Resources](https://alethicresources.com.ng)
 
 official website of Alethic Resources Nigeria Limited
 
@@ -115,11 +117,19 @@ Spectre CSS Examples provides some quick html examples based on the Spectre CSS 
 
 ---
 
-#### [TKP Forms](https://forms.tkpmission.org)
+#### TKP Mission Forms
+
+##### [TKP Forms](https://forms.tkpmission.org)
 
 custom built form entry for TKP (The Kingdom Project) events and mission outreaches
 
 <samp>Laravel | Bootstrap 3 | Google Docs</samp>
+
+##### [TKP Forms API V1](https://forms.tkpmission.org/api/v1)
+
+A collection of API Endpoints for TKP Mission Forms. Using [jsonapi](https://jsonapi.org) standard.
+
+<samp>Laravel | JSON-API | Postman</samp>
 
 ---
 
@@ -136,6 +146,14 @@ built the brain on mission online goal card generator
 an affiliate online book store mainly for study materials
 
 <samp>WordPress | WooCommerce</samp>
+
+---
+
+#### [Asikpata Consultancy](https://asikpataconsultancy.com)
+
+A Real Estate Company. They sell houses to both individuals and corporate organisations.
+
+<samp>PHP | WordPress</samp>
 
 ---
 
