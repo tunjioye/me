@@ -25,9 +25,16 @@ module.exports = {
         short_name: `me`,
         start_url: `/`,
         background_color: `#663399`,
-        theme_color: `#404040`,
+        theme_color: `#333333`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/favicon-32x32.png`, // This path is relative to the root of the site.
+        icons: [
+          {
+            src: `/favicons/android-chrome-144x144.png`,
+            sizes: `144x144`,
+            type: `image/png`,
+          },
+        ],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
