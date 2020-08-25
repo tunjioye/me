@@ -652,6 +652,7 @@ a {
 a:hover, a:focus {
   color: #3d6bb3;
   text-decoration: underline;
+  text-underline-position: under;
 }
 a:focus {
   outline: 1px dotted #3d6bb3;

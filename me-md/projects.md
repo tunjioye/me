@@ -7,6 +7,14 @@ title: 'Projects'
 
 ### Check out some of my works
 
+#### **<abbr title="Work In Progress">WIP</abbr>** : [Reventify](https://app.reventify.com)
+
+Reventify is a progressive web application that provides professionals with the resources and tools needed to advance their careers. Career planning tool and CV Builder.
+
+<samp>React | Redux | Next JS | PWA | Vercel | SCSS | CSS Grid | Git | Github | CI/CD | Node JS</samp>
+
+---
+
 #### [C & I Leasing Chatbot Forms](https://c-ileasing-forms.now.sh)
 
 webview forms developed for C & I Leasing Oracle ODA Chatbot. The forms are integrated with the client's car reservation API (test environment). [Car Reservation Form](https://c-ileasing-forms.now.sh/reservation), [Hertz Feedback Form](https://c-ileasing-forms.now.sh/hertz-feedback) and [Hertz Feedback Dashboard](https://c-ileasing-forms.now.sh/dashboard). The forms are also designed to look like Google Forms.
@@ -20,14 +28,6 @@ webview forms developed for C & I Leasing Oracle ODA Chatbot. The forms are inte
 a portal that provides information about COVID-19 coronavirus. Resources, Statistics, [Risk Assessment Form](https://homehealth.now.sh/forms/risk-assessment) and [Risk Assessment Dashboard](https://homehealth.now.sh/dashboard).
 
 <samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
-
----
-
-#### [Tapword](https://tunjioye.github.io/tapword)
-
-*words are limitless* : is a game that tests your knowledge of English words
-
-<samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
 
 ---
 
@@ -45,6 +45,14 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 
 ---
 
+#### [Tapword](https://tunjioye.github.io/tapword)
+
+*words are limitless* : is a game that tests your knowledge of English words
+
+<samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
+
+---
+
 #### [Trade Finance UI/UX Design](https://www.figma.com/proto/kHXvT63ao4pzcCVX40fToq/Trade-Finance-Dashboard)
 
 UI/UX Design and Prototyping of a Trade Solution in progress ...
@@ -58,6 +66,14 @@ UI/UX Design and Prototyping of a Trade Solution in progress ...
 an electronic voting platform for managing elections, polls and other election processes
 
 <samp>PHP | Laravel | Vue | GitBook | Bitbucket</samp>
+
+---
+
+#### [Edgetechies](https://edgetechies.com)
+
+Edgetechies, is a company passionate about designing & building compelling digital products, managing projects/brands and equipping everyday people/organizations to leverage new technologies in creating value.
+
+<samp>Vue | Nuxt JS | Netlify | Netlify Forms | SCSS | CSS Grid | Git | Github | CI/CD | Node JS</samp>
 
 ---
 
