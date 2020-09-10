@@ -77,7 +77,7 @@ Edgetechies, is a company passionate about designing & building compelling digit
 
 ---
 
-#### [Alethic Resources](https://alethicresources.com.ng)
+#### [Alethic Resources](https://alethicresources.netlify.app)
 
 official website of Alethic Resources Nigeria Limited
 
