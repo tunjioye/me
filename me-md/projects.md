@@ -7,7 +7,7 @@ title: 'Projects'
 
 ### Check out some of my works
 
-#### **<abbr title="Work In Progress">WIP</abbr>** : [Reventify](https://app.reventify.com)
+#### **<abbr title="Work In Progress">WIP</abbr>** : [Reventify](https://test.reventify.com)
 
 Reventify is a progressive web application that provides professionals with the resources and tools needed to advance their careers. Career planning tool and CV Builder.
 
