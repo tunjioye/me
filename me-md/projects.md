@@ -15,6 +15,14 @@ Reventify is a progressive web application that provides professionals with the 
 
 ---
 
+#### [Obioma](https://obioma-staging.vercel.app)
+
+Obioma is an application built for tailors, weavers and other artisans for client management and work orders.
+
+<samp>React | Redux | Next JS | Vercel | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
+
+---
+
 #### [C & I Leasing Chatbot Forms](https://c-ileasing-forms.now.sh)
 
 webview forms developed for C & I Leasing Oracle ODA Chatbot. The forms are integrated with the client's car reservation API (test environment). [Car Reservation Form](https://c-ileasing-forms.now.sh/reservation), [Hertz Feedback Form](https://c-ileasing-forms.now.sh/hertz-feedback) and [Hertz Feedback Dashboard](https://c-ileasing-forms.now.sh/dashboard). The forms are also designed to look like Google Forms.
