@@ -9,9 +9,10 @@ title: 'Projects'
 
 #### [Reventify App](https://app.reventify.com)
 
-Reventify is a progressive web application that provides professionals with the resources and tools needed to advance their careers. Career planning tool and **CV Builder** with **Expert Insights / Smart Suggestions**. Visit [Reventify Official Website](https://reventify.com) for more information about her features.
+Reventify is a progressive web application that provides professionals with the resources and tools needed to advance their careers. Career planning tool and **CV Builder** with **Expert Insights / Smart Suggestions**. <br/>
+Visit [Reventify Official Website](https://reventify.com) for more information about her features.
 
-<samp>React | Redux | Next JS | PWA | Vercel | SCSS | CSS Grid | Git | Github | CI/CD | Node JS | GraphQL Client | Google Cloud Platform (GCP) | Puppeteer // for downloading CV as PDF</samp>
+<samp>React | Redux | Next JS | PWA | Vercel | SCSS | CSS Grid | FIGMA | Git | Github | CI/CD | Node JS | GraphQL Client | Google Cloud Platform (GCP) | Puppeteer // for downloading CV as PDF</samp>
 
 ---
 
@@ -19,7 +20,7 @@ Reventify is a progressive web application that provides professionals with the 
 
 Oyoyo is an application built for tailors, weavers and other artisans for client management and work orders. Oyoyo aims to connect fashionistas to quality tailors and weavers by showcasing their works in a lookbook (a social feed inspired by tiktok) with ability to engage with artisans via liking, commenting or sharing their media post, as well as calling or chatting with registered tailors and weavers.
 
-<samp>React | Redux | Next JS | Vercel | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS | MongoDB | Mongoose | Socket IO | Paystack Payments API</samp>
+<samp>React | Redux | Next JS | Vercel | SCSS | CSS Grid | FIGMA | Git | Gitlab | CI/CD | Node JS | MongoDB | Mongoose | Socket IO | Paystack Payments API</samp>
 
 ---
 
@@ -45,7 +46,7 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 
 ---
 
-#### [IFSGRANT](http://ifsgrant-api.herokuapp.com/)
+#### [IFSGRANT](https://ifsgrant-api.herokuapp.com/)
 
 IFSGRANT is an application built for tailors, weavers and other artisans for client management and work orders. Oyoyo aims to connect fashionistas to quality tailors and weavers by showcasing their work in a lookbook (a social feed inspired by tiktok) with ability to engage with artisans via liking, commenting or sharing their media post, as well as calling or chatting with registered tailors and weavers.
 
