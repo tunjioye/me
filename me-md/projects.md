@@ -7,35 +7,19 @@ title: 'Projects'
 
 ### Check out some of my works
 
-#### **<abbr title="Work In Progress">WIP</abbr>** : [Reventify](https://test.reventify.com)
+#### [Reventify App](https://app.reventify.com)
 
-Reventify is a progressive web application that provides professionals with the resources and tools needed to advance their careers. Career planning tool and CV Builder.
+Reventify is a progressive web application that provides professionals with the resources and tools needed to advance their careers. Career planning tool and **CV Builder** with **Expert Insights / Smart Suggestions**. Visit [Reventify Official Website](https://reventify.com) for more information about her features.
 
-<samp>React | Redux | Next JS | PWA | Vercel | SCSS | CSS Grid | Git | Github | CI/CD | Node JS</samp>
-
----
-
-#### [Obioma](https://obioma-staging.vercel.app)
-
-Obioma is an application built for tailors, weavers and other artisans for client management and work orders.
-
-<samp>React | Redux | Next JS | Vercel | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
+<samp>React | Redux | Next JS | PWA | Vercel | SCSS | CSS Grid | Git | Github | CI/CD | Node JS | GraphQL Client | Google Cloud Platform (GCP) | Puppeteer // for downloading CV as PDF</samp>
 
 ---
 
-#### [C & I Leasing Chatbot Forms](https://c-ileasing-forms.now.sh)
+#### [Oyoyo](https://oyoyo-staging.vercel.app)
 
-webview forms developed for C & I Leasing Oracle ODA Chatbot. The forms are integrated with the client's car reservation API (test environment). [Car Reservation Form](https://c-ileasing-forms.now.sh/reservation), [Hertz Feedback Form](https://c-ileasing-forms.now.sh/hertz-feedback) and [Hertz Feedback Dashboard](https://c-ileasing-forms.now.sh/dashboard). The forms are also designed to look like Google Forms.
+Oyoyo is an application built for tailors, weavers and other artisans for client management and work orders. Oyoyo aims to connect fashionistas to quality tailors and weavers by showcasing their works in a lookbook (a social feed inspired by tiktok) with ability to engage with artisans via liking, commenting or sharing their media post, as well as calling or chatting with registered tailors and weavers.
 
-<samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
-
----
-
-#### [Homehealth](https://homehealth.now.sh)
-
-a portal that provides information about COVID-19 coronavirus. Resources, Statistics, [Risk Assessment Form](https://homehealth.now.sh/forms/risk-assessment) and [Risk Assessment Dashboard](https://homehealth.now.sh/dashboard).
-
-<samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
+<samp>React | Redux | Next JS | Vercel | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS | MongoDB | Mongoose | Socket IO | Paystack Payments API</samp>
 
 ---
 
@@ -58,6 +42,30 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 *words are limitless* : is a game that tests your knowledge of English words
 
 <samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
+
+---
+
+#### [IFSGRANT](http://ifsgrant-api.herokuapp.com/)
+
+IFSGRANT is an application built for tailors, weavers and other artisans for client management and work orders. Oyoyo aims to connect fashionistas to quality tailors and weavers by showcasing their work in a lookbook (a social feed inspired by tiktok) with ability to engage with artisans via liking, commenting or sharing their media post, as well as calling or chatting with registered tailors and weavers.
+
+<samp>PHP | TALL STACK  | Tailwind CSS | Alpine JS | Laravel 8 | Laravel Livewire | Git | Github | CI/CD | Heroku | Excel Sheet Import</samp>
+
+---
+
+#### [C & I Leasing Chatbot Forms](https://c-ileasing-forms.now.sh)
+
+webview forms developed for C & I Leasing Oracle ODA Chatbot. The forms are integrated with the client's car reservation API (test environment). [Car Reservation Form](https://c-ileasing-forms.now.sh/reservation), [Hertz Feedback Form](https://c-ileasing-forms.now.sh/hertz-feedback) and [Hertz Feedback Dashboard](https://c-ileasing-forms.now.sh/dashboard). The forms are also designed to look like Google Forms.
+
+<samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
+
+---
+
+#### [Homehealth](https://homehealth.now.sh)
+
+a portal that provides information about COVID-19 coronavirus. Resources, Statistics, [Risk Assessment Form](https://homehealth.now.sh/forms/risk-assessment) and [Risk Assessment Dashboard](https://homehealth.now.sh/dashboard).
+
+<samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
 
 ---
 
