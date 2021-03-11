@@ -46,7 +46,7 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 
 ---
 
-#### [IFSGRANT](https://ifsgrant-api.herokuapp.com/)
+#### [IFSGRANT](https://ifsgrant-api.herokuapp.com)
 
 IFSGRANT is an application built for tailors, weavers and other artisans for client management and work orders. Oyoyo aims to connect fashionistas to quality tailors and weavers by showcasing their work in a lookbook (a social feed inspired by tiktok) with ability to engage with artisans via liking, commenting or sharing their media post, as well as calling or chatting with registered tailors and weavers.
 
