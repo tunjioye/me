@@ -13,8 +13,8 @@ const Footer = (props) => {
         <SocialLink href={`${contacts.github || ''}`}>Github</SocialLink>
         <SocialLink href={`${contacts.twitter || ''}`}>Twitter</SocialLink>
         <SocialLink href={`${contacts.linkedin || ''}`}>LinkedIn</SocialLink>
-        <SocialLink href={`${contacts.instagram || ''}`}>Instagram</SocialLink>
         <SocialLink href={`${contacts.stackoverflow || ''}`}>Stackoverflow</SocialLink>
+        <SocialLink href={`${contacts.instagram || ''}`}>Instagram</SocialLink>
         <SocialLink href={`${contacts.medium || ''}`}>Medium</SocialLink>
       </div>
       <br />
