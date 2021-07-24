@@ -16,6 +16,14 @@ Visit [Reventify Official Website](https://reventify.com) for more information a
 
 ---
 
+#### [IFSGRANT](https://ifsgrant-api.herokuapp.com)
+
+[IFSGRANT](https://ifsgrant.com.ng) is an application built for managing forest population data within a region or location. Registered Users can upload statistics generated from field research into the system which will then automatically calculate other statistics using preset formulas. [IFSGRANT API V1 Documentation](https://documenter.getpostman.com/view/7841485/TVmJhJTZ?version=latest)
+
+<samp>PHP | TALL STACK  | Tailwind CSS | Alpine JS | Laravel 8 | Laravel Livewire | Git | Github | CI/CD | Heroku | Excel Sheet Import</samp>
+
+---
+
 #### [Oyoyo](https://oyoyo-staging.vercel.app)
 
 Oyoyo is an application built for tailors, weavers and other artisans for client management and work orders. Oyoyo aims to connect fashionistas to quality tailors and weavers by showcasing their works in a lookbook (a social feed inspired by tiktok) with ability to engage with artisans via liking, commenting or sharing their media post, as well as calling or chatting with registered tailors and weavers.
@@ -43,14 +51,6 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 *words are limitless* : is a game that tests your knowledge of English words
 
 <samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
-
----
-
-#### [IFSGRANT](https://ifsgrant-api.herokuapp.com)
-
-IFSGRANT is an application built for managing forest population data within a region or location. Registered Users can upload statistics generated from field research into the system which will then automatically calculate other statistics using preset formulas. [IFSGRANT API V1 Documentation](https://documenter.getpostman.com/view/7841485/TVmJhJTZ?version=latest)
-
-<samp>PHP | TALL STACK  | Tailwind CSS | Alpine JS | Laravel 8 | Laravel Livewire | Git | Github | CI/CD | Heroku | Excel Sheet Import</samp>
 
 ---
 
