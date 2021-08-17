@@ -142,7 +142,7 @@ Simple PHP Class to utilize [Smart SMS Solutions](https://smartsmssolutions.com/
 
 ---
 
-#### [Spectre CSS Examples](https://github.com/tunjioye/spectre-css-examples")
+#### [Spectre CSS Examples](https://github.com/tunjioye/spectre-css-examples)
 
 Spectre CSS Examples provides some quick html examples based on the Spectre CSS Framework
 
@@ -179,14 +179,6 @@ built the brain on mission online goal card generator
 an affiliate online book store mainly for study materials
 
 <samp>WordPress | WooCommerce</samp>
-
----
-
-#### [Asikpata Consultancy](https://asikpataconsultancy.com)
-
-A Real Estate Company. They sell houses to both individuals and corporate organisations.
-
-<samp>PHP | WordPress</samp>
 
 ---
 
