@@ -60,18 +60,18 @@ All configurations can be made by editing the **`me-config.js`** file in the roo
 
 1. **`initials`** : serves as your logo
 2. **`siteMetadata`** : contains information such as `title`, `siteUrl`, `description`, `author`
-3.  **`resume`** : value can be either a file located in the `/static/` folder or a link to your resume
-4.  **`contacts`** : contains `email` and social contact links
-5.  **`pathPrefix`** : just leave it as `'/me'` for now
+3. **`resume`** : value can be either a file located in the `/static/` folder or a link to your resume
+4. **`contacts`** : contains `email` and social contact links
+5. **`pathPrefix`** : just leave it as `'/me'` for now
 
 ## 💫 Deployment
 
 1. **Github Pages**
 
-    ```sh
+```sh
     npm run deploy:github
-    ````
+```
 
 2. **Netlify**
 
-   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)

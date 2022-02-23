@@ -1,6 +1,6 @@
 ---
-path: '/projects'
-title: 'Projects'
+path: "/projects"
+title: "Projects"
 ---
 
 ## Projects
@@ -20,7 +20,7 @@ Visit [Reventify Official Website](https://reventify.com) for more information a
 
 [IFSGRANT](https://ifsgrant.com.ng) is an application built for managing forest population data within a region or location. Registered Users can upload statistics generated from field research into the system which will then automatically calculate other statistics using preset formulas. [IFSGRANT API V1 Documentation](https://documenter.getpostman.com/view/7841485/TVmJhJTZ?version=latest)
 
-<samp>PHP | TALL STACK  | Tailwind CSS | Alpine JS | Laravel 8 | Laravel Livewire | Git | Github | CI/CD | Heroku | Excel Sheet Import</samp>
+<samp>PHP | TALL STACK | Tailwind CSS | Alpine JS | Laravel 8 | Laravel Livewire | Git | Github | CI/CD | Heroku | Excel Sheet Import</samp>
 
 ---
 
@@ -48,7 +48,7 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 
 #### [Tapword](https://tunjioye.github.io/tapword)
 
-*words are limitless* : is a game that tests your knowledge of English words
+_words are limitless_ : is a game that tests your knowledge of English words
 
 <samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
 

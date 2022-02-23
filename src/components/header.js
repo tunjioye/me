@@ -2,10 +2,10 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-import CONFIG from "./../../me-config"
+import CONFIG from "../../me-config"
 import Navbar from "./navbar"
 
-const Header = (props) => {
+const Header = props => {
   const { siteTitle } = props
   let { initials } = props
   initials = CONFIG.initials || initials
@@ -48,8 +48,7 @@ const Header = (props) => {
             display: `inline-block`,
             width: `10%`,
           }}
-        >
-        </div>
+        />
         <div
           style={{
             display: `inline-block`,

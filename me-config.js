@@ -8,15 +8,19 @@ module.exports = {
     {
       href: `/projects`,
       title: `Projects`,
-    }
+    },
+    {
+      href: `https://drive.google.com/open?id=1KGWSV64DWPTAnaTHFMbM0fvvOvG8RRuI`,
+      title: `Resume`,
+      target: `_blank`,
+    },
   ],
   siteMetadata: {
     title: `Tunji Oyeniran`,
-    siteUrl: `https://tunjioye.github.io/me`,
+    siteUrl: `https://tunjioye.github.io`,
     description: `Tunji Oyeniran is a Fullstack Developer who loves building useful mobile friendly applications using React, Vue, Node JS, Laravel and other modern technologies.`,
     author: `@tunjioye`,
   },
-  resume: `https://drive.google.com/open?id=1KGWSV64DWPTAnaTHFMbM0fvvOvG8RRuI`,
   contacts: {
     email: `oyenirantunji2339@gmail.com`,
     github: `https://github.com/tunjioye`,
@@ -26,5 +30,5 @@ module.exports = {
     instagram: `https://instagram.com/tunji_oyeniran`,
     medium: `https://medium.com/@tunjioye`,
   },
-  pathPrefix: `/me`,
+  pathPrefix: ``,
 }

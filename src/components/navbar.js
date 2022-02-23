@@ -2,12 +2,12 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
 
-import CONFIG from "./../../me-config"
+import CONFIG from "../../me-config"
 
 const Navbar = ({ navLinks }) => {
   navLinks = CONFIG.navLinks || navLinks
 
-  const navLinksList = navLinks.map(({href, title}, index) => {
+  const navLinksList = navLinks.map(({ href, title, target }, index) => {
     return (
       <li
         key={index}
@@ -19,6 +19,7 @@ const Navbar = ({ navLinks }) => {
         <Link
           title={title}
           to={href}
+          target={target}
           style={{
             color: `white`,
             textDecoration: `none`,
@@ -45,7 +46,7 @@ const Navbar = ({ navLinks }) => {
         }}
       >
         {navLinksList}
-        {CONFIG.resume &&
+        {CONFIG?.resume?.url && (
           <li
             style={{
               display: `inline-block`,
@@ -53,8 +54,8 @@ const Navbar = ({ navLinks }) => {
             }}
           >
             <a
-              href={CONFIG.resume}
-              title={`Resume`}
+              href={CONFIG?.resume?.url}
+              title={CONFIG?.resume?.title || `Resume`}
               style={{
                 color: `white`,
                 textDecoration: `none`,
@@ -62,10 +63,10 @@ const Navbar = ({ navLinks }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              {`Resume`}
+              {CONFIG?.resume?.title || `Resume`}
             </a>
           </li>
-        }
+        )}
       </ul>
     </nav>
   )

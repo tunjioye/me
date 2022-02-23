@@ -1,26 +1,26 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-const SocialLink = (props) => {
+const SocialLink = props => {
   const { href, children } = props
 
-  return (
-    <>
-      {href &&
-        <a className="social-link" href={`${href || ''}`} target="_blank" rel="noopener noreferrer">
-          {children}
-        </a>
-      }
-    </>
-  )
+  if (href) {
+    return (
+      <a className="social-link" href={`${href || ""}`} target="_blank" rel="noopener noreferrer">
+        {children}
+      </a>
+    )
+  }
+
+  return null
 }
 
 SocialLink.propTypes = {
-  href: PropTypes.string
+  href: PropTypes.string,
 }
 
 SocialLink.defaultProps = {
-  href: ``
+  href: ``,
 }
 
 export default SocialLink

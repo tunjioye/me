@@ -4,10 +4,10 @@ import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const SecondPage = () => {
+const ProjectsPage = () => {
   const data = useStaticQuery(graphql`
     query ProjectsPageQuery {
-      markdownRemark(frontmatter: {path: {eq: "/projects"}}) {
+      markdownRemark(frontmatter: { path: { eq: "/projects" } }) {
         html
       }
     }
@@ -19,11 +19,9 @@ const SecondPage = () => {
   return (
     <Layout>
       <SEO title="Projects" />
-      <div
-        dangerouslySetInnerHTML={{ __html: html }}
-      />
+      <div dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
 }
 
-export default SecondPage
+export default ProjectsPage

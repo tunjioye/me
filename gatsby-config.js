@@ -1,12 +1,8 @@
-const { siteMetadata, pathPrefix } = require('./me-config')
-
-console.log(pathPrefix)
+const { siteMetadata, pathPrefix } = require("./me-config")
 
 module.exports = {
-  pathPrefix: `${pathPrefix || '/'}`,
-  siteMetadata: {
-    ...siteMetadata
-  },
+  pathPrefix: pathPrefix || "/",
+  siteMetadata,
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
@@ -60,11 +56,11 @@ module.exports = {
             resolve: "gatsby-remark-external-links",
             options: {
               target: "_blank",
-              rel: "noopener noreferrer"
-            }
-          }
-        ]
-      }
-    }
+              rel: "noopener noreferrer",
+            },
+          },
+        ],
+      },
+    },
   ],
 }
