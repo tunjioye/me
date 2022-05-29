@@ -46,11 +46,11 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 
 ---
 
-#### [Tapword](https://tunjioye.github.io/tapword)
+#### [Tapword](https://tapword.tunjioyeniran.com)
 
 _words are limitless_ : is a game that tests your knowledge of English words
 
-<samp>React | SCSS | CSS Grid | Github Pages | PWA</samp>
+<samp>React | Next JS | SCSS | CSS Grid | Spellchecker Api | Vercel | PWA</samp>
 
 ---
 
