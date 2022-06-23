@@ -16,6 +16,7 @@ const Footer = props => {
         <SocialLink href={`${contacts.stackoverflow || ""}`}>Stackoverflow</SocialLink>
         <SocialLink href={`${contacts.instagram || ""}`}>Instagram</SocialLink>
         <SocialLink href={`${contacts.medium || ""}`}>Medium</SocialLink>
+        <SocialLink href={`${contacts.angel || ""}`}>Angel</SocialLink>
       </div>
       <br />
       <div>

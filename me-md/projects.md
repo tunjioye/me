@@ -16,7 +16,7 @@ Visit [Reventify Official Website](https://reventify.com) for more information a
 
 ---
 
-#### [IFSGRANT](https://ifsgrant-api.herokuapp.com)
+#### [IFSGRANT](http://ifsgrant-api.herokuapp.com)
 
 [IFSGRANT](https://ifsgrant.com.ng) is an application built for managing forest population data within a region or location. Registered Users can upload statistics generated from field research into the system which will then automatically calculate other statistics using preset formulas. [IFSGRANT API V1 Documentation](https://documenter.getpostman.com/view/7841485/TVmJhJTZ?version=latest)
 
