@@ -7,12 +7,36 @@ title: "Projects"
 
 ### Check out some of my works
 
+#### [Yawo](http://yawo.ng)
+
+[Yawo](http://yawo.ng) is a platform that gives quick loan to small businesses especially traders.
+
+<samp>React | Next JS | Styled Components | Simpler State | Contentful | Git | GitHub | Netlify</samp>
+
+---
+
+#### [Account Report](https://account-report.herokuapp.com)
+
+[Account Report](https://account-report.herokuapp.com) is an accounting software developed to make financial data entry easy & generating financial reports even easier. [See Screenshots on Angel](https://angel.co/projects/1294367-account-report)
+
+<samp>PHP | TALL STACK | Tailwind CSS | Alpine JS | Laravel 8 | Laravel Livewire | Git | Github | CI/CD | Heroku</samp>
+
+---
+
 #### [Reventify App](https://app.reventify.com)
 
 Reventify is a progressive web application that provides professionals with the resources and tools needed to advance their careers. Career planning tool and **CV Builder** with **Expert Insights / Smart Suggestions**. <br/>
-Visit [Reventify Official Website](https://reventify.com) for more information about her features.
+Visit [Reventify Official Website](https://reventify.com) for more information about her features. [See Screenshots on Angel](https://angel.co/projects/1294370-reventify-web-app)
 
 <samp>React | Redux | Next JS | PWA | Vercel | SCSS | CSS Grid | FIGMA | Git | Github | CI/CD | Node JS | GraphQL Client | Google Cloud Platform (GCP) | Puppeteer // for downloading CV as PDF</samp>
+
+---
+
+#### [Agridata](https://agridata.agriteer.com/)
+
+[Agridata](https://agridata.agriteer.com/) by Agriteer. The aim of the project is to create a place for people to get the latest average market price for common day to day commodities such as Beans, Rice etc. [See Screenshots on Angel](https://angel.co/projects/1294383-agridata)
+
+<samp>PHP | TALL STACK | Tailwind CSS | Alpine JS | Laravel 8 | Laravel Livewire | Git | Github | CI/CD | Heroku | Excel Sheet Import</samp>
 
 ---
 
@@ -48,7 +72,7 @@ Buy products from any trusted US online store using your Heroshe US Shipping Add
 
 #### [Tapword](https://tapword.tunjioyeniran.com)
 
-_words are limitless_ : is a game that tests your knowledge of English words
+_words are limitless_ : is a word game that tests your knowledge of English words. Tapword provides a means to combine as many letters as you can to make the longest word you possibly can when given a limited number of random letters.
 
 <samp>React | Next JS | SCSS | CSS Grid | Spellchecker Api | Vercel | PWA</samp>
 
