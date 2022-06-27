@@ -29,7 +29,7 @@ module.exports = {
     stackoverflow: `https://stackoverflow.com/users/5760434/tunji-oyeniran`,
     instagram: `https://instagram.com/tunji_oyeniran`,
     medium: `https://medium.com/@tunjioye`,
-    angel: `https://angel.com/u/tunji-oyeniran`,
+    angel: `https://angel.co/u/tunji-oyeniran`,
   },
   pathPrefix: ``,
 }
