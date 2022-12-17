@@ -134,14 +134,6 @@ a package for interpolating strings. replace parts of a template string with pas
 
 ---
 
-#### [Tech Campaigners](https://techcampaigners.netlify.com)
-
-submit your products as an enterpreneur and allow campaigners to campaign and refer potential customers
-
-<samp>React | Redux | Blueprint JS | MongoDB Atlas | Strapi JS | Heroku | Netlify | GitLab | CI/CD</samp>
-
----
-
 #### [Sprocket API Frontend Demo](https://spf-demo.herokuapp.com)
 
 Frontend Demo consuming API of a store of products with features such as filtering, sorting and pagination.
