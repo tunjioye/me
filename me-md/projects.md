@@ -78,17 +78,17 @@ _words are limitless_ : is a word game that tests your knowledge of English word
 
 ---
 
-#### [C & I Leasing Chatbot Forms](https://c-ileasing-forms.now.sh)
+#### [C & I Leasing Chatbot Forms](https://c-ileasing-forms.vercel.app)
 
-webview forms developed for C & I Leasing Oracle ODA Chatbot. The forms are integrated with the client's car reservation API (test environment). [Car Reservation Form](https://c-ileasing-forms.now.sh/reservation), [Hertz Feedback Form](https://c-ileasing-forms.now.sh/hertz-feedback) and [Hertz Feedback Dashboard](https://c-ileasing-forms.now.sh/dashboard). The forms are also designed to look like Google Forms.
+webview forms developed for C & I Leasing Oracle ODA Chatbot. The forms are integrated with the client's car reservation API (test environment). [Car Reservation Form](https://c-ileasing-forms.vercel.app/reservation), [Hertz Feedback Form](https://c-ileasing-forms.vercel.app/hertz-feedback) and [Hertz Feedback Dashboard](https://c-ileasing-forms.vercel.app/dashboard). The forms are also designed to look like Google Forms.
 
 <samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
 
 ---
 
-#### [Homehealth](https://homehealth.now.sh)
+#### [Homehealth](https://homehealth.vercel.app)
 
-a portal that provides information about COVID-19 coronavirus. Resources, Statistics, [Risk Assessment Form](https://homehealth.now.sh/forms/risk-assessment) and [Risk Assessment Dashboard](https://homehealth.now.sh/dashboard).
+a portal that provides information about COVID-19 coronavirus. Resources, Statistics, [Risk Assessment Form](https://homehealth.vercel.app/forms/risk-assessment) and [Risk Assessment Dashboard](https://homehealth.vercel.app/dashboard).
 
 <samp>React | Next JS | SCSS | CSS Grid | Git | Gitlab | CI/CD | Node JS</samp>
 
