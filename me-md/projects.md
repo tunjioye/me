@@ -7,6 +7,14 @@ title: "Projects"
 
 ### Check out some of my works
 
+#### [Love Message](https://lm.tunjioyeniran.com)
+
+Love Message is a fun project that _encrypts_ and _decrypts_ a message. // love message
+
+<samp>React | TypeScript Next JS | CSS Modules | SCSS | Simpler State | Git | GitHub | Vercel</samp>
+
+---
+
 #### [Yawo](http://yawo.ng)
 
 [Yawo](http://yawo.ng) is a platform that gives quick loan to small businesses especially traders.
