@@ -7,11 +7,19 @@ title: "Projects"
 
 ### Check out some of my works
 
+#### [Triptimizer](https://test.triptimizer.com)
+
+Triptimizer is an innovative web application designed to streamline the process of planning and optimizing your trips. With Triptimizer, you can effortlessly generate the most efficient routes for your journeys, taking into account either the shortest distance or the shortest time to reach multiple destinations.
+
+<samp>React | TypeScript | Next JS | CSS Modules | SCSS | Simpler State | React Hook Form | Git | GitHub | Vercel | Node JS | Restful Api | Postman | Vercel KV (a Redis Store) | Google Places Api | Google Distance Matrix Api | Google Sheets Api</samp>
+
+---
+
 #### [Love Message](https://lm.tunjioyeniran.com)
 
 Love Message is a fun project that _encrypts_ and _decrypts_ a message. // love message
 
-<samp>React | TypeScript Next JS | CSS Modules | SCSS | Simpler State | Git | GitHub | Vercel</samp>
+<samp>React | TypeScript | Next JS | CSS Modules | SCSS | Simpler State | Git | GitHub | Vercel</samp>
 
 ---
 
