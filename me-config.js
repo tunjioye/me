@@ -10,7 +10,7 @@ module.exports = {
       title: `Projects`,
     },
     {
-      href: `https://drive.google.com/open?id=1YRgiADuEifcyw9MrKjfggAuMW2VT2F7K`,
+      href: `https://drive.google.com/open?id=1u4W7F-3ypUKkI1mwAmKFqpE6mQTMg3l8`,
       title: `Resume`,
       target: `_blank`,
     },
