@@ -7,9 +7,9 @@ title: "Projects"
 
 ### Check out some of my works
 
-#### [Terrace](https://terrace.fi)
+#### [Terrace FI](https://terrace.fi)
 
-Terrace provides market access to the world’s leading centralized and decentralized crypto trading and liquidity venues through a single, integrated platform. This is a platform similar to Binance but targeted towards businesses rather than individual customers. Even though personal accounts are also supported.
+Terrace is a [YC backed company](https://www.ycombinator.com/companies/terrace) that provides market access to the world’s leading centralized and decentralized crypto trading and liquidity venues through a single, integrated platform. This is a platform similar to Binance but targeted towards businesses rather than individual customers. Even though personal accounts are also supported.
 
 <samp>React | TypeScript | Next JS | Graph QL | Apollo GraphQL Playground | Node JS | Aphrodite CSS | MOBX | Git | GitHub | AWS</samp>
 
