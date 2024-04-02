@@ -7,6 +7,14 @@ title: "Projects"
 
 ### Check out some of my works
 
+#### [Terrace](https://terrace.fi)
+
+Terrace provides market access to the world’s leading centralized and decentralized crypto trading and liquidity venues through a single, integrated platform.
+
+<samp>React | TypeScript | Next JS | Graph QL | Apollo GraphQL Playground | Node JS | Aphrodite CSS | MOBX | Git | GitHub | AWS</samp>
+
+---
+
 #### [Triptimizer](https://test.triptimizer.com)
 
 Triptimizer is an innovative web application designed to streamline the process of planning and optimizing your trips. With Triptimizer, you can effortlessly generate the most efficient routes for your journeys, taking into account either the shortest distance or the shortest time to reach multiple destinations.
