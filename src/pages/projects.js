@@ -2,7 +2,7 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const ProjectsPage = () => {
   const data = useStaticQuery(graphql`
@@ -18,7 +18,7 @@ const ProjectsPage = () => {
 
   return (
     <Layout>
-      <SEO title="Projects" />
+      <Seo title="Projects" />
       <div dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )

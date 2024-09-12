@@ -2,7 +2,7 @@ import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import { contacts } from "../../me-config"
 
 const IndexPage = () => {
@@ -19,7 +19,7 @@ const IndexPage = () => {
 
   return (
     <Layout>
-      <SEO title="Home" />
+      <Seo title="Home" />
       <div dangerouslySetInnerHTML={{ __html: html }} />
       <p className="text-large">
         Check out some of my{" "}
