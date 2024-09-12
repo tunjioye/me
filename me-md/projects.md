@@ -141,7 +141,7 @@ an electronic voting platform for managing elections, polls and other election p
 
 ---
 
-#### [Edgetechies](https://blog.edgetechies.com)
+#### [Edgetechies](https://archive.edgetechies.com)
 
 Edgetechies, is a company passionate about designing & building compelling digital products, managing projects/brands and equipping everyday people/organizations to leverage new technologies in creating value.
 
