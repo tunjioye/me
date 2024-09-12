@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 
-const SocialLink = props => {
+const SocialLink = (props) => {
   const { href, children } = props
 
   if (href) {

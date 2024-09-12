@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 
 import SocialLink from "./social-link"
 
-const Footer = props => {
+const Footer = (props) => {
   const { contacts } = props
 
   return (

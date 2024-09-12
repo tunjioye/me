@@ -6,6 +6,7 @@ title: "Projects"
 ## Projects
 
 ### Check out some of my works
+
 ---
 
 #### [Any CBT](https://anycbt.clearerangle.com)
