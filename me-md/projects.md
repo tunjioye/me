@@ -9,11 +9,21 @@ title: "Projects"
 
 ---
 
+#### [Jochebed Foundation Website](https://jochebed-foundation.clearerangle.com)
+
+Official Jochebed Foundation Website. Jochebed Foundation is a non-profit organization that provides education via her scholarship initiative to people regardless of financial barriers. Jochebed Foundation also provides funding for religious projects.
+
+<samp>React | TypeScript | Next JS | Tailwind CSS | Shad CN | React Hook Form | Git | GitHub | Vercel | Node JS</samp>
+
+---
+
 #### [Any CBT](https://anycbt.clearerangle.com)
 
 UNDER DEVELOPMENT
 
 <samp>React | TypeScript | Next JS | Tailwind CSS | Shad CN | Simpler State | React Hook Form | Git | GitHub | Vercel | Node JS | Restful Api | Postman | Render | Stripe | Resend</samp>
+
+---
 
 #### [Terrace FI](https://app.terrace.fi/spot/ETH-USDC)
 
