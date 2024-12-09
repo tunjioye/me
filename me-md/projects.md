@@ -25,7 +25,7 @@ UNDER DEVELOPMENT
 
 ---
 
-#### [Terrace FI](https://app.terrace.fi/spot/ETH-USDC)
+#### [Terrace FI](https://app.terrace.fi/pathfinder)
 
 [Terrace](https://terrace.fi) is a [YC backed company](https://www.ycombinator.com/companies/terrace) that provides market access to the world’s leading centralized and decentralized crypto trading and liquidity venues through a single, integrated platform. This is a platform similar to Binance but targeted towards businesses rather than individual customers. Even though personal accounts are also supported.
 
