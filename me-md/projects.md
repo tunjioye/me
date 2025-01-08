@@ -9,6 +9,14 @@ title: "Projects"
 
 ---
 
+#### [Knockout Pokedex](https://knockout-pokedex.vercel.app)
+
+This is a simple Pokedex built with Knockout.js. In my attempt to learn Knockout.js, I decided to build a simple Pokedex. The Pokedex is a simple web application that displays a list of Pokemon and their details. The application is built with Knockout.js, HTML, CSS, and JavaScript.
+
+<samp>HTML | CSS | JavaScript | Knockout.js | Vite | Git | GitHub | Vercel | Node JS | PokeApi</samp>
+
+---
+
 #### [Jochebed Foundation Website](https://jochebed-foundation.clearerangle.com)
 
 Official Jochebed Foundation Website. Jochebed Foundation is a non-profit organization that provides education via her scholarship initiative to people regardless of financial barriers. Jochebed Foundation also provides funding for religious projects.
@@ -19,7 +27,7 @@ Official Jochebed Foundation Website. Jochebed Foundation is a non-profit organi
 
 #### [Any CBT](https://anycbt.clearerangle.com)
 
-UNDER DEVELOPMENT
+Any CBT allows you generate CBT questions and take a quiz from uploaded materials from written text, uploaded documents and youtube video.
 
 <samp>React | TypeScript | Next JS | Tailwind CSS | Shad CN | Simpler State | React Hook Form | Git | GitHub | Vercel | Node JS | Restful Api | Postman | Render | Stripe | Resend</samp>
 
