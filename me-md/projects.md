@@ -17,6 +17,14 @@ This is a simple Pokedex built with Knockout.js. In my attempt to learn Knockout
 
 ---
 
+#### [Triptimizer](https://triptimizer.com)
+
+Triptimizer is an innovative web application designed to streamline the process of planning and optimizing your trips. With Triptimizer, you can effortlessly generate the most efficient routes for your journeys, taking into account either the shortest distance or the shortest time to reach multiple destinations.
+
+<samp>React | TypeScript | Next JS | CSS Modules | SCSS | Simpler State | React Hook Form | Git | GitHub | Vercel | Node JS | Restful Api | Postman | Vercel KV (a Redis Store) | Google Places Api | Google Distance Matrix Api | Google Sheets Api | Resend</samp>
+
+---
+
 #### [Jochebed Foundation Website](https://jochebed-foundation.clearerangle.com)
 
 Official Jochebed Foundation Website. Jochebed Foundation is a non-profit organization that provides education via her scholarship initiative to people regardless of financial barriers. Jochebed Foundation also provides funding for religious projects.
@@ -38,14 +46,6 @@ Any CBT allows you generate CBT questions and take a quiz from uploaded material
 [Terrace](https://terrace.fi) is a [YC backed company](https://www.ycombinator.com/companies/terrace) that provides market access to the world’s leading centralized and decentralized crypto trading and liquidity venues through a single, integrated platform. This is a platform similar to Binance but targeted towards businesses rather than individual customers. Even though personal accounts are also supported.
 
 <samp>React | TypeScript | Next JS | Graph QL | Apollo GraphQL Playground | Node JS | Hasura | Tailwind CSS | Shad CN | Fusion Auth | Aphrodite CSS | MOBX | Git | GitHub | AWS</samp>
-
----
-
-#### [Triptimizer](https://test.triptimizer.com)
-
-Triptimizer is an innovative web application designed to streamline the process of planning and optimizing your trips. With Triptimizer, you can effortlessly generate the most efficient routes for your journeys, taking into account either the shortest distance or the shortest time to reach multiple destinations.
-
-<samp>React | TypeScript | Next JS | CSS Modules | SCSS | Simpler State | React Hook Form | Git | GitHub | Vercel | Node JS | Restful Api | Postman | Vercel KV (a Redis Store) | Google Places Api | Google Distance Matrix Api | Google Sheets Api | Resend</samp>
 
 ---
 

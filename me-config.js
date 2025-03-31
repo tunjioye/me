@@ -10,8 +10,8 @@ module.exports = {
       title: `Projects`,
     },
     {
-      href: `https://drive.google.com/open?id=1SwUB73w_eqvmRnYwBH2u6LgrqnVyYOwJ`,
-      // href: `https://drive.google.com/open?id=1u4W7F-3ypUKkI1mwAmKFqpE6mQTMg3l8`,
+      href: `https://drive.google.com/open?id=1rWK5DJEJCs-koW1xZ3vmpyqhhwzOna6A`,
+      // href: `https://drive.google.com/open?id=1GWvGrnBwFq8nn05uIbxNYssgvcHnAZjA`,
       title: `Resume`,
       target: `_blank`,
     },
