@@ -9,9 +9,21 @@ title: "Projects"
 
 ---
 
+#### [Swift Aza](https://swift-aza.up.railway.app)
+
+Swift Aza is a simple Crypto Web App. With On-Ramp (Buy Crypto) and Off-Ramp (Sell Crypto) features.
+Leveraging [Paybis](https://paybis.com) Apis and Widget Web SDK. While using [Convex](https://convex.dev) Backend as a Service.
+
+<samp>React | TypeScript | Next JS | Tailwind CSS | Node JS | Shad CN |  Git | GitHub | Railway | Convex | Convex Auth | Paybis Apis | Paybis Widget Web SDK</samp>
+
+---
+
 #### [Knockout Pokedex](https://knockout-pokedex.vercel.app)
 
-This is a simple Pokedex built with Knockout.js. In my attempt to learn Knockout.js, I decided to build a simple Pokedex. The Pokedex is a simple web application that displays a list of Pokemon and their details. The application is built with Knockout.js, HTML, CSS, and JavaScript.
+This is a simple Pokedex built with Knockout.js.
+In my attempt to learn Knockout.js, I decided to build a simple Pokedex.
+The Pokedex is a simple web application that displays a list of Pokemon and their details.
+The application is built with Knockout.js, HTML, CSS, and JavaScript.
 
 <samp>HTML | CSS | JavaScript | Knockout.js | Vite | Git | GitHub | Vercel | Node JS | PokeApi</samp>
 
