@@ -1,0 +1,11 @@
+{
+  "MD033": {
+    "allowed_elements": [
+      "br",
+      "samp"
+    ]
+  },
+  "MD013": {
+    "line_length": 500
+  }
+}
