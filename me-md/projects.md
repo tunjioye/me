@@ -9,12 +9,12 @@ title: "Projects"
 
 ---
 
-#### [Swift Aza](https://swift-aza.up.railway.app)
+#### [Swift Aza](https://swiftaza.com)
 
 Swift Aza is a simple Crypto Web App. With On-Ramp (Buy Crypto) and Off-Ramp (Sell Crypto) features.
-Leveraging [Paybis](https://paybis.com) Apis and Widget Web SDK. While using [Convex](https://convex.dev) Backend as a Service.
+Leveraging [Paybis](https://paybis.com) Apis and Widget Web SDK. While using [Convex](https://convex.dev) Backend as a Service. And [PostHog](https://posthog.com) for Analytics.
 
-<samp>React | TypeScript | Next JS | Tailwind CSS | Node JS | Shad CN |  Git | GitHub | Railway | Convex | Convex Auth | Paybis Apis | Paybis Widget Web SDK</samp>
+<samp>React | TypeScript | Next JS | Tailwind CSS | Node JS | Shad CN |  Git | GitHub | Railway | Convex | Convex Auth | Paybis Apis | Paybis Widget Web SDK | PostHog</samp>
 
 ---
 
